@@ -1,0 +1,22 @@
+
+pwd: donde estamos ubicados
+ls: muestra el contenido de la página
+mkdir +nombre archivo: crea la carpeta
+touch: crea archivos .html .css .js
+cd .. : para volver 
+rmdir +carpeta: eliminar borrar carpeta vacias
+rm -r +carpeta: eliminar carpetas llenas
+rm +archivo: eliminar archivo
+mv : mover carpeta
+
+********************************************
+************** Usuario GitHub **************
+********************************************
+
+gersonmat23@hotmail.com
+Buhito2826
+buho1723
+
+********************************************
+
+git init
